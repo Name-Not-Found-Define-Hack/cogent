@@ -246,7 +246,7 @@ class _AuthState extends State<Auth> with TickerProviderStateMixin {
                               obsec = !obsec;
                             });
                           },
-                          icon: obsec
+                          icon: !obsec
                               ? Icon(Icons.visibility_off)
                               : Icon(Icons.visibility))),
                 ),
