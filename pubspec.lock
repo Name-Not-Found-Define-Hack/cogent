@@ -8,6 +8,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.0"
+  animated_page_transition:
+    dependency: "direct main"
+    description:
+      name: animated_page_transition
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.1+2"
   async:
     dependency: transitive
     description:
@@ -130,6 +137,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.8.0"
+  page_animation_transition:
+    dependency: "direct main"
+    description:
+      name: page_animation_transition
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.9"
   path:
     dependency: transitive
     description:
